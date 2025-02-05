@@ -2,7 +2,7 @@
 
 This project was created with the [TicTacToe React App](https://react.dev/learn/tutorial-tic-tac-toe) tutorial.
 
-I implemented an algorithm to play TicTacToe against a bot. To deactivate the bor, set ```botActive``` to ```false``` in the game props.
+I implemented an algorithm to play TicTacToe against a bot. To deactivate the bot, set ```botActive``` to ```false``` in the game props.
 
 Feel free to contribute to this project or use it for your own projects. 
 ### `npm start`
